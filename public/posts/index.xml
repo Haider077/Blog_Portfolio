@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Mar 2025 01:56:58 -0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Simulating the Impact of Transit on City Growth Using Pygame</title>
+      <link>http://localhost:1313/posts/post1/</link>
+      <pubDate>Mon, 10 Mar 2025 01:56:58 -0700</pubDate>
+      <guid>http://localhost:1313/posts/post1/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;In this post, we&amp;rsquo;ll explore the fascinating intersection of urban planning and game development by simulating the impact of transit systems on city growth using Pygame. We&amp;rsquo;ll walk through the conceptual framework of our simulation, focusing on how different transit routes influence population density and urban sprawl. Imagine visualizing how a well-placed subway line can transform a sprawling suburb into a vibrant urban hub!&lt;/p&gt;&#xA;&lt;h2 id=&#34;conceptualizing-the-city&#34;&gt;Conceptualizing the City&lt;/h2&gt;&#xA;&lt;p&gt;To begin, we need a simplified representation of our city. Think of it as a grid, where each cell represents a small area of land. We&amp;rsquo;ll assign different states to these cells: empty, residential, commercial, or transit. This allows us to track the evolution of our simulated urban landscape.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
